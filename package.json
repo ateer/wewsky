@@ -1,0 +1,19 @@
+{
+  "name": "wewsky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ateer/wewsky.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ateer/wewsky/issues"
+  },
+  "homepage": "https://github.com/ateer/wewsky#readme"
+}
